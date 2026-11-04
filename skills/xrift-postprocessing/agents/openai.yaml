@@ -1,0 +1,4 @@
+interface:
+  display_name: "XRift ポストプロセス"
+  short_description: "HDR・ブルーム・フォグ・ライトシャフトの実装とXR描画の調整"
+  default_prompt: "$xrift-postprocessing を使い、このXRiftワールドに必要なポストプロセスを実装し、効果ごとの見え方と描画負荷を検証してください。"
